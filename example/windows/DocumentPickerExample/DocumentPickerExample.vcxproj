@@ -6,9 +6,9 @@
     <CppWinRTOptimized>true</CppWinRTOptimized>
     <CppWinRTRootNamespaceAutoMerge>true</CppWinRTRootNamespaceAutoMerge>
     <MinimalCoreWin>true</MinimalCoreWin>
-    <ProjectGuid>{cece7b4a-8e21-4689-a6d4-8a85839fe8ea}</ProjectGuid>
-    <ProjectName>ReactNativeDocumentPickerExample</ProjectName>
-    <RootNamespace>ReactNativeDocumentPickerExample</RootNamespace>
+    <ProjectGuid>{da4528a8-8281-4faf-a8c4-85046fc0d653}</ProjectGuid>
+    <ProjectName>DocumentPickerExample</ProjectName>
+    <RootNamespace>DocumentPickerExample</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
     <MinimumVisualStudioVersion>17.0</MinimumVisualStudioVersion>
     <AppContainerApplication>true</AppContainerApplication>

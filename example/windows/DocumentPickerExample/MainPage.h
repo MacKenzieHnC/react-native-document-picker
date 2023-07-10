@@ -2,7 +2,7 @@
 #include "MainPage.g.h"
 #include <winrt/Microsoft.ReactNative.h>
 
-namespace winrt::ReactNativeDocumentPickerExample::implementation
+namespace winrt::DocumentPickerExample::implementation
 {
     struct MainPage : MainPageT<MainPage>
     {
@@ -10,7 +10,7 @@ namespace winrt::ReactNativeDocumentPickerExample::implementation
     };
 }
 
-namespace winrt::ReactNativeDocumentPickerExample::factory_implementation
+namespace winrt::DocumentPickerExample::factory_implementation
 {
     struct MainPage : MainPageT<MainPage, implementation::MainPage>
     {

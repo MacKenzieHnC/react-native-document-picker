@@ -9,7 +9,7 @@
 using namespace winrt;
 using namespace xaml;
 
-namespace winrt::ReactNativeDocumentPickerExample::implementation
+namespace winrt::DocumentPickerExample::implementation
 {
     MainPage::MainPage()
     {

@@ -6,7 +6,7 @@
 
 namespace activation = winrt::Windows::ApplicationModel::Activation;
 
-namespace winrt::ReactNativeDocumentPickerExample::implementation
+namespace winrt::DocumentPickerExample::implementation
 {
     struct App : AppT<App>
     {
@@ -18,4 +18,4 @@ namespace winrt::ReactNativeDocumentPickerExample::implementation
       private:
         using super = AppT<App>;
     };
-} // namespace winrt::ReactNativeDocumentPickerExample::implementation
+} // namespace winrt::DocumentPickerExample::implementation
